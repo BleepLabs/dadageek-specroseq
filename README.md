@@ -1,6 +1,6 @@
 # dadageek-specroseq
 Quick light painter / grid sequencer I made for dadageek</br>
-http://www.dadageek.com/build-audio-visual-synthesizers-using-arduino
+http://www.dadageek.com/build-audio-visual-synthesizers-using-arduino</br>
 See it here. </br>
 https://www.youtube.com/watch?v=xSKIp96NbV4</br>
 It's a light painter where each row of 8 is read in order with the hue of the pixel controlling the pitch. Eight sine waves are independently controlled by the 8 rows while the eight columns are the steps.</br>
